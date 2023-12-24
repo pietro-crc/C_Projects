@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: because in the random 50000 it took a long time , and the bubble sort is not fit for this type of things
+
+sort2 uses: merge sort
+
+How do you know?: with the large data it was always the shortest.
+
+sort3 uses: selection sort
+
+How do you know?: it was behinf the two and was comparable.
